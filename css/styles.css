@@ -42,6 +42,7 @@ p {
 .colored-section {
   background-color: #ff4c68;
   color: #fff;
+  border-style: 'none';
 }
 
 .white-section {
@@ -119,8 +120,12 @@ p {
 
 /* Testimonial Section */
 
+#testimonial-and-press-parent{ 
+  background-color: #ef8172 !important;
+}
+
 #testimonials {
-  background-color: #ef8172;
+  background-color: #ef8172 !important;
 }
 
 .testimonial-text {
@@ -135,7 +140,7 @@ p {
 }
 
 #press {
-  background-color: #ef8172;
+  background-color: #ef8172 !important;
   padding-bottom: 3%;
 }
 
