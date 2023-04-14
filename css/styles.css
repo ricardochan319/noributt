@@ -40,8 +40,9 @@ p {
 /* Sections */
 
 .colored-section {
-  background-color: #ff4c68;
+  background-color: #ff4c68 !important;
   color: #fff;
+  border-style: "none";
 }
 
 .white-section {
